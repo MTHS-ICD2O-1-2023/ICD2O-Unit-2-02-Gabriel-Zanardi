@@ -24,7 +24,7 @@
   padding-left: 15pt;
   padding-right: 15pt;
   padding-top: 15pt;
-  background-color: green;
+    background-color: green;
 }
 
 .right-image {
@@ -32,4 +32,3 @@
   width: 250px;
   float: right;
 }
-
